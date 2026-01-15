@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MD: Monowar Hossain",
+    "section": "",
+    "text": "I am a graduate student at the University of Dhaka, pursuing an M.S. in Applied Statistics & Data Science. My academic work is driven by a focus on using advanced statistical methodologies to solve real-world problems, particularly within the realms of public health and sociodemographic analysis.\nCurrently, I serve as the Joint Secretary of the Dhaka University Research Society (DURS). In this role, I enjoy mentoring others in statistical software and coordinating initiatives that promote data-driven inquiry across campus.\n\n\n\nPublic Health Analytics: Investigating non-communicable diseases and health inequities using large-scale survey data (e.g., BDHS).\nSpatial Statistics: Applying geospatial modeling and machine learning to understand environmental and regional disparities.\nModern Modeling: Exploring Bayesian inference, causal inference, and big data analytics.\n\n\n\n\n\nJoint Secretary: Dhaka University Research Society (DURS).\nData Specialist: Dhaka University Runners Community (DURC).\nTechnical Training: Facilitating workshops in R, STATA, and SPSS for students and professionals."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Get in Touch",
+    "section": "",
+    "text": "If you are interested in discussing research collaborations regarding Public Health, Geospatial Statistics, or initiatives related to the Dhaka University Research Society, please feel free to reach out.\nEmail: mmhossain1@isrt.ac.bd\nLocation: Institute of Statistical Research and Training (ISRT), University of Dhaka\nOffice Hours: By appointment (Online or on-campus)\n\nEmail Me Download CV"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "MD: Monowar Hossain",
+    "section": "",
+    "text": "I am a graduate student at the University of Dhaka, pursuing an M.S. in Applied Statistics & Data Science. My academic work is driven by a focus on using advanced statistical methodologies to solve real-world problems, particularly within the realms of public health and sociodemographic analysis.\nCurrently, I serve as the Joint Secretary of the Dhaka University Research Society (DURS). In this role, I enjoy mentoring others in statistical software and coordinating initiatives that promote data-driven inquiry across campus.\n\n\n\nPublic Health Analytics: Investigating non-communicable diseases and health inequities using large-scale survey data (e.g., BDHS).\nSpatial Statistics: Applying geospatial modeling and machine learning to understand environmental and regional disparities.\nModern Modeling: Exploring Bayesian inference, causal inference, and big data analytics.\n\n\n\n\n\nJoint Secretary: Dhaka University Research Society (DURS).\nData Specialist: Dhaka University Runners Community (DURC).\nTechnical Training: Facilitating workshops in R, STATA, and SPSS for students and professionals."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research & Projects",
+    "section": "",
+    "text": "Geospatial and Sociodemographic Inequities in Non-Communicable Diseases B.S. Project | 2025 Topic: Insights from the BDHS 2021-22 regarding health inequities among ever-married women in Bangladesh. Supervised by: Mr. Priom Saha (ISRT, University of Dhaka). Tools: R (Tidyverse, sf), Geospatial Mapping, Statistical Modeling.\nStudents’ Opinion on Party-based Student Politics Survey Project (DURS) | 2024 Scope: Analyzed student perspectives on political activities at the University of Dhaka. Status: Published on the Dhaka University Website. Role: Lead Researcher for survey design and data analysis."
+  },
+  {
+    "objectID": "projects.html#research-projects",
+    "href": "projects.html#research-projects",
+    "title": "Research & Projects",
+    "section": "",
+    "text": "Geospatial and Sociodemographic Inequities in Non-Communicable Diseases B.S. Project | 2025 Topic: Insights from the BDHS 2021-22 regarding health inequities among ever-married women in Bangladesh. Supervised by: Mr. Priom Saha (ISRT, University of Dhaka). Tools: R (Tidyverse, sf), Geospatial Mapping, Statistical Modeling.\nStudents’ Opinion on Party-based Student Politics Survey Project (DURS) | 2024 Scope: Analyzed student perspectives on political activities at the University of Dhaka. Status: Published on the Dhaka University Website. Role: Lead Researcher for survey design and data analysis."
+  },
+  {
+    "objectID": "projects.html#working-papers",
+    "href": "projects.html#working-papers",
+    "title": "Research & Projects",
+    "section": "Working Papers",
+    "text": "Working Papers\nTransformation of Coastal Livelihood An investigation into the shifting economic and environmental landscape of coastal regions in Bangladesh. Focus: Sustainability and adaptive strategies in the face of climate change."
+  },
+  {
+    "objectID": "projects.html#technical-skills-in-practice",
+    "href": "projects.html#technical-skills-in-practice",
+    "title": "Research & Projects",
+    "section": "Technical Skills in Practice",
+    "text": "Technical Skills in Practice\nOn these projects, I frequently utilize:\nData Visualization: Custom ggplot2 themes for academic posters. Reporting: Reproducible manuscripts using Quarto and LaTeX. Geospatial Analysis: Mapping regional disparities in health and social metrics."
+  },
+  {
+    "objectID": "about.html#get-in-touch",
+    "href": "about.html#get-in-touch",
+    "title": "About",
+    "section": "",
+    "text": "If you are interested in discussing research collaborations regarding Public Health, Geospatial Statistics, or initiatives related to the Dhaka University Research Society, please feel free to reach out.\nEmail: mmhossain1@isrt.ac.bd\nLocation: Institute of Statistical Research and Training (ISRT), University of Dhaka\nOffice Hours: By appointment (Online or on-campus)\n\nEmail Me Download CV"
+  }
+]
