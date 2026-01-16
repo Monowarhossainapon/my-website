@@ -11,6 +11,8 @@ website:
         text: Home
       - href: posts.qmd
         text: Posts
+      - href: teaching.qmd
+        text: Teaching
       - href: projects.qmd
         text: Research & Projects
       - href: about.qmd
