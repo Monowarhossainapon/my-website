@@ -1,0 +1,122 @@
+---
+title: "Assignment 03"
+author: "Monowar Hossain"
+date: "`r Sys.Date()`"
+output:
+  word_document: default
+  html_document: default
+---
+
+
+---
+
+**Assignment: Data Analysis Using STATA** 
+
+
+
+**Question 1:** 
+
+You are provided with two datasets, **wm1.sav** and **wm2.sav**, which contain information about women of reproductive age (15–49 years) in Bangladesh, collected through the Multiple Indicator Cluster Survey (MICS) in 2018. Complete the following tasks using **STATA**:  
+
+---
+
+**(a)** Merge the two datasets (**wm1.sav** and **wm2.sav**) and save the merged dataset as **women.sav**. Now use this data set to answer the questions in (b)-(h).
+
+**(b)** Create a new variable, **nWB4**, based on **WB4**, that categorizes women into seven age groups.  
+
+**(c)** Calculate the total number of women who are under 18 years of age.  
+
+**(d)** Save a subset of the data as **agescho.sav** in the **E:** directory of your computer. This dataset should only include women who are less than 18 years old and have ever attended school (as indicated by the variable **WB5**).  
+
+**(e)** Identify and explain any issues with the value labels of **WB5**.  
+
+**(f)** What percentage of disabled women are from urban areas?
+  
+**(g)** Create and save a new dataset, **wmnew.sav**, that contains only the following variables: **HH1**, **HH2**, **WB4**, **HH6**, **HI4**, **welevel**, and **disability**.  
+
+**(h)** Draw a percentage bar chart for the variable **disability**, clustered by **HH6**. Write an interpretation of the graph.  
+
+
+
+**Question 2: ** 
+
+In a 1986 study at the Baystate Medical Center in Springfield, MA, data were collected from **189 women** — 59 of whom had **low birth-weight babies** and 130 had **normal birth-weight babies**.
+The study aimed to identify **risk factors associated with giving birth to a low birth-weight baby**.
+The dataset for this study is available as **`birthwt.dta`**.
+
+Using this dataset, answer the following questions:
+
+---
+
+ **(a)** Can you conclude that the **mean birth weight (in grams)** is significantly lower than **2500 grams**?
+
+ **(b)** Check whether the **means of birth weight (in grams)** significantly differ **across mothers’ race**.
+
+ **(c)** Test whether the **proportion of smokers** is significantly **lower than 0.5**.
+
+ **(d)** Test whether the **proportion of women with hypertension** is the **same across smoking status**.
+
+**Question 3:**
+
+Let us assume a study where participants were asked about their **favourite leisure activity**.
+The responses obtained from **15 respondents** are given below:
+
+| Respondent | Favourite Activities     |
+| ---------- | ------------------------ |
+| 1          | Cinema, Reading          |
+| 2          | Sport, Cinema, Computer  |
+| 3          | Computer, Reading        |
+| 4          | Reading, Computer, Sport |
+| 5          | Computer                 |
+| 6          | Reading, Sport           |
+| 7          | Sport, Music             |
+| 8          | Sport, Cinema            |
+| 9          | Reading, Cinema          |
+| 10         | Reading, Computer        |
+| 11         | Computer, Cinema         |
+| 12         | Reading                  |
+| 13         | Music, Reading           |
+| 14         | Sport, Computer          |
+| 15         | Computer, Music          |
+
+---
+
+ **(a)** Enter the above data into **Stata**.
+
+
+ **(b)** Find the **percentage of responses** (how often each activity was mentioned) and the **percentage of cases** (how many respondents mentioned each activity).
+
+**Question 4: **
+
+Convert the file **`women.sav`** into a Stata data file named **`women.dta`**, and answer the following questions.
+
+---
+
+ **(a)** For the variable **disability**, create a **string variable** named `ndisability`.
+
+ **(b)** Check whether **WB4** is between **15 and 49 years**.
+
+ **(c)** Export this dataset to Excel, name the file **`women.xls`**, and save it to the **E:** drive of your computer.
+
+ **(d)** Create a variable **`cm`** that takes the value:
+* `1` if the **age at first marriage (WAGEM)** is **less than 18 years**, and * `0` otherwise.
+
+Label these values so that `1 = Yes` and `0 = No`.
+
+ **(e)** Create a new dataset named **`women1.dta`** that contains only **cases 500 to 1000**.
+
+ **(f)** Compute the **mean number of children ever born (CEB)** for **rural and urban women**.
+
+ **(g)** Draw a **bar chart** for **CEB**.
+
+ **(h)** Draw a **histogram** for **weight at birth (MN34)** using **five bins**.
+
+ **(i)** Draw a **box plot** to show the **distribution of CEB with respect to WELEVEL**.
+Also, **comment on your findings**.
+
+ **(j)** Produce a **cross-tabulation** between **WELEVEL** and **WINDEX5**.
+Write a short **summary** interpreting the results.
+
+---
+
+

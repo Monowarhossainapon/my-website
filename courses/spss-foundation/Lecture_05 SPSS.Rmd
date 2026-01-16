@@ -1,0 +1,17 @@
+---
+title: "Basic Data Analysis Course on SPSS"
+subtitle: "Graphical presentation of data in SPSS"
+author: "Md Monowar Hossain"
+institute: |
+  Institute of Statistical Research and Training (ISRT)  
+  University of Dhaka  
+  \texttt{mmhossain1@isrt.ac.bd}
+date: March 22, 2025
+output:
+  beamer_presentation:
+    theme: "AnnArbor"
+    colortheme: "dolphin"
+    fonttheme: "structurebold"
+---
+
+---

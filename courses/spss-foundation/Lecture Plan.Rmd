@@ -1,0 +1,74 @@
+---
+title: "Lecture Plan"
+author: "Monowar Hossain"
+date: "`r Sys.Date()`"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### **Bangladesh Research Society (BDRS)**  
+**Basic Data Analysis Course on STATA**  
+**Academic Year: 2024-2025**  
+
+---
+
+#### **Basic Information**  
+**Instructor 1:** Md. Monowar Hossain  
+- **Email:** mmhossain1@isrt.ac.bd  
+- Joint Secretary, DURS
+
+**Instructor 2:** Md. Nayeem Chowdhury  
+- **Email:** mnchowdhury@isrt.ac.bd  
+- Joint Secretary, DURS
+
+**Instructor 3:** Meer Tozammel Hossain  
+- **Email:** meertozammelhossain@gmail.com 
+- Junior Research Fellow, BDRS
+
+#### **Lecture Time:**
+- Friday, 8:30 PM – 9:30 PM 
+- Saturday, 8:30 PM – 9:30 PM 
+
+
+**Textbook:**  
+1. Hamilton, L. C. (2006). *Statistics with Stata.* Thomson Brooks/Cole.
+2. Sophia Rabe-Hesketh, Brian Everitt.A Handbook of Statistical Analyses using Stata, Third Edition. 
+
+---
+
+#### **Course Overview**  
+This course is designed to introduce students to the popular statistical software **Stata**. With the growing dependency on statistical software in modern research, mastering Stata is essential for efficient data analysis and statistical computation. By the end of the course, students will be equipped to analyze data from various sources effectively.
+
+---
+
+#### **Intended Learning Outcomes (ILOs)**  
+Upon successful completion, students will:  
+1. Understand how to enter data from surveys or experimental studies.  
+2. Manage and manipulate primary or secondary data to address specific queries.  
+3. Implement a wide range of statistical techniques using Stata.  
+
+---
+
+#### **Tentative Lecture Plan**  
+
+| Lecture No. | Topics Covered                                   | Description                                                                 |
+|-------------|--------------------------------------------------|-----------------------------------------------------------------------------|
+| **1**       | Introduction to Stata and Installation           | Overview of Stata's interface and software setup.                          |
+| **2**       | Data Management 1                                | Reading data, data entry, saving files, importing, and exporting data.     |
+| **3**       | Data Management 2                           | Renaming, labeling variables, value labels, log files, creating variables. |
+| **4**       | Data Management 3                   | Subsetting data, `tab`, `codebook`, `labelbook`, sorting, margins.         |
+| **5**       | Data Management 4  | Techniques for reshaping datasets and managing missing values.             |
+| **6**       | Graphical Presentation       | Creating visual representations of categorical data.                       |
+| **7**       | Graphical Presentation         | Advanced graphing techniques for numerical data.                           |
+| **8**       | Summarization of data                             | One-way and two-way tables.                                                |
+| **9**       | Summarization of data                              | Setting survey weights and handling multiple responses.                    |
+| **10**      | Statistical tests                                         | Conducting one-sample, two-sample, and paired t-tests.                     |
+| **11**      | Statistical modeling                      | Analysis of variance and chi-square tests for independence.                |
+| **12**      | Project and Research Paper Analysis              | Practical application of course concepts in analyzing research data.       |
+
+---

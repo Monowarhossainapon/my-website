@@ -1,0 +1,267 @@
+---
+title: "Training on Statistical Tools for Research: Stata"
+subtitle: "Survey Data Analysis in Stata"
+author: "Md Monowar Hossain"
+institute: |
+  Institute of Statistical Research and Training (ISRT)  
+  University of Dhaka  
+  \texttt{mmhossain1@isrt.ac.bd}
+date: September 27, 2025
+output:
+  beamer_presentation:
+    theme: "Singapore"
+    colortheme: "crane"
+    fonttheme: "serif"
+header-includes:
+  - \author[Md. Monowar Hossain (\texttt{mmhossain1@isrt.ac.bd})]{Md Monowar Hossain}
+  - \date[September 27, 2025]{September 27, 2025}
+  - |
+    \setbeamertemplate{footline}
+    {
+      \leavevmode%
+      \hbox{%
+      \begin{beamercolorbox}[wd=.4\paperwidth,ht=2.25ex,dp=1ex,left]{author in head/foot}%
+        \usebeamerfont{author in head/foot}\insertshortauthor
+      \end{beamercolorbox}%
+      \begin{beamercolorbox}[wd=.3\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+        \usebeamerfont{title in head/foot}\insertshortdate
+      \end{beamercolorbox}%
+      \begin{beamercolorbox}[wd=.3\paperwidth,ht=2.25ex,dp=1ex,right]{date in head/foot}%
+        \usebeamerfont{date in head/foot}\insertframenumber{} / \inserttotalframenumber\hspace*{2ex} 
+      \end{beamercolorbox}}%
+      \vskip0pt%
+    }
+---
+
+## **One sample t-test**
+
+* A one sample t-test allows us to test whether a population mean (of a normally distributed interval variable) significantly differs from a hypothesized value.
+* For example, using the **birthwt.dta** data file, say we wish to test whether the average birth weight of newborns differs significantly from 2500 gm.
+
+```stata
+use birthwt.dta, clear
+ttest bwt=2500
+```
+---
+
+### **One-sample t test**
+
+
+\begin{center}
+\includegraphics[width=1\linewidth]{D:/STATA Course/image/ttest.png}
+\end{center}
+
+* The mean of the variable bwt for this particular sample is 2944.587, which is significantly different from the test value of 2500.
+* We would conclude that the mean birth weight is significantly higher than 2500.
+
+---
+
+## **Two independent samples t-test**
+
+* An independent samples t-test is used when you want to compare the means of a normally distributed interval dependent variable for two independent groups.
+* For example, we may wish to test whether the mean birth weight is the same with smokers and nonsmokers.
+* The test variable is **bwt** and group variable is **smoke**.
+
+```stata
+ttest bwt,by(smoke)
+```
+---
+
+**Two-sample t test with equal variances**
+
+\begin{center}
+\includegraphics[width=1\linewidth]{D:/STATA Course/image/ttest2.png}
+\end{center}
+
+---
+
+* The results indicate that there is a significant difference between the means with smokers and nonsmokers, since the p-value is 0.0087.
+* More specifically, the mean birth weight of babies of nonsmokers is significantly higher than those of smokers.
+
+---
+
+## **One-way ANOVA**
+
+* A one-way analysis of variance (ANOVA) is used when you have a categorical independent variable (with two or more categories) and a normally distributed interval dependent variable and you wish to test for differences in the means of the dependent variable broken down by the levels of the independent variable.
+* For example, we may wish to test whether the mean birth weight differs among the three races.
+
+```stata
+oneway bwt race
+```
+---
+
+**Analysis of Variance**
+
+\begin{center}
+\includegraphics[width=1\linewidth]{D:/STATA Course/image/anova.png}
+\end{center}
+
+* As indicated in the ANOVA table, the mean of birth weight differs significantly among the levels of races. That is, the means of birth weight across the races are not the same.
+
+---
+
+## **Paired t-test**
+
+* A paired (samples) t-test is used when you have two related observations (i.e. two observations per subject) and you want to see if the means on these two normally distributed interval variables differ from one another.
+* Assume that twenty subjects participated in an experiment to study the effectiveness of a certain diet, combined with a program of exercise, in reducing serum cholesterol levels. Data are recorded on the serum cholesterol levels for the 10 subjects at the beginning of the program (before) and at the end of the program (after), and is available in the data file **diet**.
+
+---
+
+* The question to be answered is: Do the data provide sufficient evidence for us to conclude that the diet-exercise program is effective in reducing serum cholesterol levels?
+
+```stata
+use diet.dta, clear
+ttest after=before
+```
+---
+
+**Paired t test**
+
+\begin{center}
+\includegraphics[width=1\linewidth]{D:/STATA Course/image/pairt.png}
+\end{center}
+
+* These results indicate that the diet-exercise program is significantly effective in reducing serum cholesterol levels.
+
+---
+
+## **Test for single proportion**
+
+* A one sample proportion test allows us to test whether the proportion of successes on a two-level categorical dependent variable significantly differs from a hypothesized value.
+* For example, we may wish to test whether the proportion of mothers with low birth weight babies differs significantly from 0.40.
+* The **prtest** command assumes that the variables it will act on are binary (0/1) variables and the proportion of interest is the proportion of 1’s.
+
+```stata
+prtest low=0.4
+```
+---
+
+**One-sample test of proportion**
+
+
+\begin{center}
+\includegraphics[width=1\linewidth]{D:/STATA Course/image/pairt1.png}
+\end{center}
+
+* The results indicate that the proportion of mothers with low birth weight babies is significantly lower than the hypothesized value of 40%.
+
+---
+
+## **Test for two proportions**
+
+```stata
+prtest ht=smoke
+```
+---
+
+**Two-sample test of proportions**
+
+
+\begin{center}
+\includegraphics[width=1\linewidth]{D:/STATA Course/image/pairt2.png}
+\end{center}
+
+* The results indicate that the proportion of mothers with hypertension is significantly lower than the proportion of mothers who are smokers.
+
+---
+
+## **Equivalence of two proportions test and the chi-square test of independence**
+
+```stata
+tab low smoke, chi2     /* test of independence */
+prtest smoke, by(low)   /* compares between the proportion of smokers(in low-yes) 
+                           and proportion of smokers (in low-no) */
+```
+
+* If you square the z value then you will obtain the chi-square value.
+* p-values for both the tests are the same.
+
+---
+
+## chi-square test
+
+\begin{center}
+\includegraphics[width=1\linewidth]{D:/STATA Course/image/chi.png}
+\end{center}
+
+---
+
+## two proportions test
+
+\begin{center}
+\includegraphics[width=1\linewidth]{D:/STATA Course/image/pro_t.png}
+\end{center}
+
+---
+
+## **Chi-square goodness of fit test**
+
+* A chi-square goodness of fit test allows us to test whether the observed proportions for a categorical variable differ from hypothesized proportions.
+* For example, suppose we believe that the women under different races are of equal proportions.
+* We want to test whether the observed proportions from our sample differ significantly from the hypothesized equality of proportions.
+
+```stata
+findit csgof
+csgof race
+```
+---
+
+```
++--------------------------------------+
+| race   expperc   expfreq   obsfreq   |
+|--------------------------------------|
+| white  33.33333  63        96        |
+| black  33.33333  63        26        |
+| other  33.33333  63        67        |
++--------------------------------------+
+chisq(2) = 39.27, p = 0
+```
+
+* Since the p-value is very small, we can reject the null hypothesis that proportion of women is the same for all the races.
+
+---
+
+### With explicit proportions
+
+```stata
+csgof race, expperc(33.3,33.3,33.3)
+```
+
+```
++-------------------------------------+
+| race   expperc   expfreq   obsfreq  |
+|-------------------------------------|
+| white  33.3      62.937    96       |
+| black  33.3      62.937    26       |
+| other  33.3      62.937    67       |
++-------------------------------------+
+chisq(2) = 39.31, p = 0
+```
+
+---
+
+### With hypothesized proportions
+
+```stata
+csgof race, expperc(50,20,30)
+```
+
+```
++-------------------------------------+
+| race   expperc   expfreq   obsfreq  |
+|-------------------------------------|
+| white  50        94.5      96       |
+| black  20        37.8      26       |
+| other  30        56.7      67       |
++-------------------------------------+
+chisq(2) = 5.58, p = .0615
+```
+
+* Note that we cannot reject the null hypothesis at 5% level of significance.
+
+---
+
+
+\begin{center}  
+\Huge \textbf{THANK YOU}  
+\end{center}
