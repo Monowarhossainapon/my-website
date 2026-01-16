@@ -9,6 +9,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: posts.qmd
+        text: Posts
       - href: projects.qmd
         text: Research & Projects
       - href: about.qmd

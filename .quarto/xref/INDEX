@@ -7,5 +7,11 @@
   },
   "projects.qmd": {
     "projects.html": "6d7167ef"
+  },
+  "posts.qmd": {
+    "posts.html": "659d5d2d"
+  },
+  "posts/icasds-2025/index.qmd": {
+    "index.html": "2cef49cf"
   }
 }

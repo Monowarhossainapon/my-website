@@ -1,0 +1,16 @@
+---
+title: "Life, events, thoughts and more"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  image-align: right        # This moves the image to the left
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [image, date, title, reading-time, description, categories]
+  image-height: "250px"    # Keeps all images at a consistent size
+page-layout: full
+---
+
+Welcome to my blog! Here I share my experiences in statistics, data science, and academic events.

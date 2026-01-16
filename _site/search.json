@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "MD: Monowar Hossain",
-    "section": "",
-    "text": "I am a graduate student at the University of Dhaka, pursuing an M.S. in Applied Statistics & Data Science. My academic work is driven by a focus on using advanced statistical methodologies to solve real-world problems, particularly within the realms of public health and sociodemographic analysis.\nCurrently, I serve as the Joint Secretary of the Dhaka University Research Society (DURS). In this role, I enjoy mentoring others in statistical software and coordinating initiatives that promote data-driven inquiry across campus.\n\n\n\nPublic Health Analytics: Investigating non-communicable diseases and health inequities using large-scale survey data (e.g., BDHS).\nSpatial Statistics: Applying geospatial modeling and machine learning to understand environmental and regional disparities.\nModern Modeling: Exploring Bayesian inference, causal inference, and big data analytics.\n\n\n\n\n\nJoint Secretary: Dhaka University Research Society (DURS).\nData Specialist: Dhaka University Runners Community (DURC).\nTechnical Training: Facilitating workshops in R, STATA, and SPSS for students and professionals."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Get in Touch",
-    "section": "",
-    "text": "If you are interested in discussing research collaborations regarding Public Health, Geospatial Statistics, or initiatives related to the Dhaka University Research Society, please feel free to reach out.\nEmail: mmhossain1@isrt.ac.bd\nLocation: Institute of Statistical Research and Training (ISRT), University of Dhaka\nOffice Hours: By appointment (Online or on-campus)\n\nEmail Me Download CV"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "MD: Monowar Hossain",
-    "section": "",
-    "text": "I am a graduate student at the University of Dhaka, pursuing an M.S. in Applied Statistics & Data Science. My academic work is driven by a focus on using advanced statistical methodologies to solve real-world problems, particularly within the realms of public health and sociodemographic analysis.\nCurrently, I serve as the Joint Secretary of the Dhaka University Research Society (DURS). In this role, I enjoy mentoring others in statistical software and coordinating initiatives that promote data-driven inquiry across campus.\n\n\n\nPublic Health Analytics: Investigating non-communicable diseases and health inequities using large-scale survey data (e.g., BDHS).\nSpatial Statistics: Applying geospatial modeling and machine learning to understand environmental and regional disparities.\nModern Modeling: Exploring Bayesian inference, causal inference, and big data analytics.\n\n\n\n\n\nJoint Secretary: Dhaka University Research Society (DURS).\nData Specialist: Dhaka University Runners Community (DURC).\nTechnical Training: Facilitating workshops in R, STATA, and SPSS for students and professionals."
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Research & Projects",
@@ -49,10 +28,38 @@
     "text": "Technical Skills in Practice\nOn these projects, I frequently utilize:\nData Visualization: Custom ggplot2 themes for academic posters. Reporting: Reproducible manuscripts using Quarto and LaTeX. Geospatial Analysis: Mapping regional disparities in health and social metrics."
   },
   {
-    "objectID": "about.html#get-in-touch",
-    "href": "about.html#get-in-touch",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MD: Monowar Hossain",
+    "section": "",
+    "text": "I am a graduate student at the University of Dhaka, pursuing an M.S. in Applied Statistics & Data Science. My academic work is driven by a focus on using advanced statistical methodologies to solve real-world problems, particularly within the realms of public health and sociodemographic analysis.\nCurrently, I serve as the Joint Secretary of the Dhaka University Research Society (DURS). In this role, I enjoy mentoring others in statistical software and coordinating initiatives that promote data-driven inquiry across campus.\n\n\n\nPublic Health Analytics: Investigating non-communicable diseases and health inequities using large-scale survey data (e.g., BDHS).\nSpatial Statistics: Applying geospatial modeling and machine learning to understand environmental and regional disparities.\nModern Modeling: Exploring Bayesian inference, causal inference, and big data analytics.\n\n\n\n\n\nJoint Secretary: Dhaka University Research Society (DURS).\nData Specialist: Dhaka University Runners Community (DURC).\nTechnical Training: Facilitating workshops in R, STATA, and SPSS for students and professionals."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "MD: Monowar Hossain",
+    "section": "",
+    "text": "I am a graduate student at the University of Dhaka, pursuing an M.S. in Applied Statistics & Data Science. My academic work is driven by a focus on using advanced statistical methodologies to solve real-world problems, particularly within the realms of public health and sociodemographic analysis.\nCurrently, I serve as the Joint Secretary of the Dhaka University Research Society (DURS). In this role, I enjoy mentoring others in statistical software and coordinating initiatives that promote data-driven inquiry across campus.\n\n\n\nPublic Health Analytics: Investigating non-communicable diseases and health inequities using large-scale survey data (e.g., BDHS).\nSpatial Statistics: Applying geospatial modeling and machine learning to understand environmental and regional disparities.\nModern Modeling: Exploring Bayesian inference, causal inference, and big data analytics.\n\n\n\n\n\nJoint Secretary: Dhaka University Research Society (DURS).\nData Specialist: Dhaka University Runners Community (DURC).\nTechnical Training: Facilitating workshops in R, STATA, and SPSS for students and professionals."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Get in Touch",
     "section": "",
     "text": "If you are interested in discussing research collaborations regarding Public Health, Geospatial Statistics, or initiatives related to the Dhaka University Research Society, please feel free to reach out.\nEmail: mmhossain1@isrt.ac.bd\nLocation: Institute of Statistical Research and Training (ISRT), University of Dhaka\nOffice Hours: By appointment (Online or on-campus)\n\nEmail Me Download CV"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Life, events, thoughts and more",
+    "section": "",
+    "text": "Welcome to my blog! Here I share my experiences in statistics, data science, and academic events.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAttending ICASDS 2025: Unlocking New Possibilities in Data Science\n\n\n\nConference\n\nData Science\n\nApplied Statistics\n\n\n\nReflecting on two days of insightful sessions at the International Conference on Applied Statistics and Data Science (ICASDS 2025) at the University of Dhaka.\n\n\n\n\n\nDec 28, 2025\n\n1 min\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/icasds-2025/index.html",
+    "href": "posts/icasds-2025/index.html",
+    "title": "Attending ICASDS 2025: Unlocking New Possibilities in Data Science",
+    "section": "",
+    "text": "I recently had the opportunity to attend the International Conference on Applied Statistics and Data Science (ICASDS 2025), held at the Nabab Nawab Ali Chowdhury Senate Bhaban, University of Dhaka.\nThe theme of the conference, “Data-driven Solutions: Unlocking New Possibilities,” perfectly aligns with my current academic focus in my M.S. program. Over the course of December 28-29, I engaged with global experts and fellow researchers through a variety of programs:\n\nKey Highlights:\n\nKeynote & Plenary Sessions: Gained insights into the future of global data science trends.\nStudent Poster Competition: Observed innovative research from peers, which was highly motivating for my own work on geospatial health inequities.\nNetworking: Connected with statisticians and data scientists during the invited paper sessions.\n\nAttending this conference was a significant milestone in my graduate journey, providing fresh perspectives on how applied statistics can solve complex real-world problems.\n\n\n\nNawab Ali Chowdhury Senate Building at the University of Dhaka\n\n\nThe theme of the conference, “Data-driven Solutions: Unlocking New Possibilities,” perfectly aligns with my current academic focus.\n\nOrganized by the Institute of Statistical Research and Training (ISRT), University of Dhaka."
   }
 ]
