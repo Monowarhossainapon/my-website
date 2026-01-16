@@ -8,7 +8,7 @@ listing:
   categories: true
   sort-ui: true
   filter-ui: true
-  fields: [image, date, title, reading-time, description, categories]
+  fields: [image, date, location, title, reading-time, description, categories]
   image-height: "250px"    # Keeps all images at a consistent size
 page-layout: full
 ---
