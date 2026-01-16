@@ -3,7 +3,7 @@ title: "B.S. Project: Geospatial and Sociodemographic Inequities in NCDs Among W
 date: "2025-05-06"
 location: "ISRT, University of Dhaka"
 categories: [EVENT, NEWS]
-image: project_image.jpg
+image: project_image.jpeg
 description: "Insights from my B.S. (Hons.) research project analyzing hypertension, diabetes, and mental health using BDHS 2021–22 data."
 ---
 
