@@ -29,8 +29,8 @@ I am dedicated to empowering students and researchers by bridging the gap betwee
 
 I have developed curriculum and led sessions for the following software-specific courses:
 
-| Year | Program Topic | Software | Participants |
-|:--- |:---|:---:|:---:|
-| **2025** | Advanced Statistical Tools for Research | SPSS, R, STATA | 200+ |
-| **2025** | Basic Data Analysis Foundation | SPSS | 200+ |
-| **2024** | Data Management & Manipulation | STATA | 380+ |
+| Year | Program Topic | Software | Participants | Materials |
+|:--- |:---|:---:|:---:|:---:|
+| **2025** | Advanced Statistical Tools for Research | SPSS, R, STATA | 200+ | |
+| **2025** | Basic Data Analysis Foundation | SPSS | 200+ | |
+| **2024** | Data Management & Manipulation | STATA | 380+ | [**View Course Materials**](courses/spss-basic/index.qmd) |
