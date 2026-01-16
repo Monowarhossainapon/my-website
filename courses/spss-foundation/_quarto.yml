@@ -6,5 +6,5 @@ website:
         - courses/spss-foundation/index.qmd
         - section: "Course Materials"
           contents:
-            - courses/spss-foundation/Lecture_01.qmd
+            - courses/spss-foundation/lecture1.qmd
             - courses/spss-foundation/lecture-02.qmd
