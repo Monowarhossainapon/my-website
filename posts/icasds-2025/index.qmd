@@ -1,6 +1,7 @@
 ---
 title: "Attending ICASDS 2025: Unlocking New Possibilities in Data Science"
 date: "2025-12-28"
+location: "Nabab Nawab Ali Chowdhury Senate Bhaban, DU"
 categories: [Conference]
 image: conference_ICASDS_2025.jpg
 description: "Reflecting on two days of insightful sessions at the International Conference on Applied Statistics and Data Science (ICASDS 2025) at the University of Dhaka."
