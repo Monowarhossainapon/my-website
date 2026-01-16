@@ -1,10 +1,10 @@
 ---
 title: "Basic Data Analysis Course on Stata"
 subtitle: "Introduction to Stata"
-author: Md. Nayeem Chowdhury
+author: Md Monowar Hossain
 institute: "Institute of Statistical Research and Training (ISRT)"
 university: "University of Dhaka"
-email: "mnchowdhury@isrt.ac.bd"
+email: "mmhossain1@isrt.ac.bd"
 date: December 14, 2024
 output:
   beamer_presentation:
@@ -84,3 +84,4 @@ type: help regression
 \begin{center}
 \Huge \textbf{THANK YOU}
 \end{center}
+
