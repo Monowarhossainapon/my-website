@@ -1,0 +1,36 @@
+---
+title: "Teaching & Training"
+---
+
+I am dedicated to empowering students and researchers by bridging the gap between statistical theory and practical data analysis. As an **Online Student Trainer** for the **Bangladesh Research Society (BDRS)**, I have trained nearly 300 students and professionals.
+
+## Training Experience
+
+### Statistical Tools for Research
+*Online Trainer | BDRS | July 2025 – Dec 2025*
+
+* **Tools:** SPSS, R, and STATA.
+* **Focus:** Conducted advanced training sessions focused on designing course materials and providing live demonstrations tailored for real-world research applications.
+
+### Basic Data Analysis with SPSS
+*Online Trainer | BDRS | Mar 2025 – Apr 2025*
+
+* **Focus:** Delivered foundational courses for beginners.
+* **Topics:** Data entry, descriptive statistics, and visualization techniques essential for academic research.
+
+### Data Management with STATA
+*Online Trainer | BDRS | Dec 2024 – Jan 2025*
+
+* **Focus:** Led hands-on training programs focused on data management and basic statistical analysis.
+
+---
+
+## Course History
+
+I have developed curriculum and led sessions for the following software-specific courses:
+
+| Year | Program Topic | Software | Participants |
+|:--- |:---|:---:|:---:|
+| **2025** | Advanced Statistical Tools for Research | SPSS, R, STATA | 100+ |
+| **2025** | Basic Data Analysis Foundation | SPSS | 100+ |
+| **2024** | Data Management & Manipulation | STATA | 80+ |
