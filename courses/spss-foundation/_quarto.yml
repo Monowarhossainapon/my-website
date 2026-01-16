@@ -1,0 +1,10 @@
+website:
+  sidebar:
+    - id: spss-course
+      title: "SPSS Foundation"
+      contents:
+        - courses/spss-foundation/index.qmd
+        - section: "Course Materials"
+          contents:
+            - courses/spss-foundation/lecture-01.qmd
+            - courses/spss-foundation/lecture-02.qmd
