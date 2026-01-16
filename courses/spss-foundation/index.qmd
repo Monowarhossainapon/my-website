@@ -10,9 +10,9 @@ affiliation: "University of Dhaka"
 This course introduces SPSS for statistical computing. Students learn data entry, manipulation, and basic visualization.
 
 ## Lecture Materials
-* [course overview](lecture1.qmd)
-* [Lecture 1: Introduction to SPSS](lecture1.qmd)
-* [Lecture 2: Data Management 1](lecture2.qmd)
+* [course overview]
+* [Lecture 1: Introduction to SPSS]
+* [Lecture 2: Data Management 1]
 * [Lecture 3: Data Management 2](lecture1.qmd)
 * [Lecture 4: Data Management 3](lecture1.qmd)
 * [Lecture 5: Data Management 4](lecture1.qmd)
