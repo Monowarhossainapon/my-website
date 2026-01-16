@@ -1,8 +1,8 @@
 ---
 title: "B.S. Project: Geospatial and Sociodemographic Inequities in NCDs Among Women in Bangladesh"
-date: "2025-05-20"
+date: "2025-05-06"
 location: "ISRT, University of Dhaka"
-categories: [Research, Health Statistics, Machine Learning, BDHS]
+categories: [EVENT, NEWS]
 image: project_image.jpg
 description: "Insights from my B.S. (Hons.) research project analyzing hypertension, diabetes, and mental health using BDHS 2021–22 data."
 ---
@@ -19,4 +19,3 @@ Using data from the **Bangladesh Demographic and Health Survey (BDHS) 2021–22*
 ### Acknowledgments
 I am deeply grateful to my supervisor, **Mr. Priom Saha**, for his invaluable guidance, and to my family for their unwavering support. I also dedicate this work to my beloved teachers.
 
-*Keywords: Applied Statistics, Spatial Mapping, Logistic Regression, Classification Trees, Public Health.*
