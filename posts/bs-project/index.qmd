@@ -8,10 +8,13 @@ description: "Insights from my B.S. (Hons.) research project analyzing hypertens
 ---
 
 I am pleased to share the completion of my B.S. (Hons.) project in Applied Statistics at the **Institute of Statistical Research and Training (ISRT), University of Dhaka**. 
+
 ![Institute of Statistical Research and Training (ISRT), University of Dhaka](project_image.jpeg)
 
 Supervised by **Mr. Priom Saha** (Lecturer, ISRT), my research focused on the rising burden of Non-Communicable Diseases (NCDs) among ever-married women in Bangladesh.
+
 ![Caught a quick moment with Mr. Priom Saha between meetings. Always a pleasure!](priom_saha.jpeg)
+
 ### Research Overview
 Using data from the **Bangladesh Demographic and Health Survey (BDHS) 2021–22**, I analyzed a nationally representative sample of 5,015 women. The study investigated the prevalence and determinants of hypertension, diabetes, anxiety, and depression.
 
