@@ -1,18 +1,9 @@
 ---
-title: "Basic Data Analysis Course on Stata"
-subtitle: "Introduction to Stata"
-author: Md Monowar Hossain
-institute: "Institute of Statistical Research and Training (ISRT)"
-university: "University of Dhaka"
-email: "mmhossain1@isrt.ac.bd"
-date: December 14, 2024
-output:
-  beamer_presentation:
-    theme: "AnnArbor"
-    colortheme: "dolphin"
-    fonttheme: "structurebold"
+title: "Lecture 1: Introduction to Stata"
+subtitle: "Statistical Tools for Research: SPSS, R and STATA"
+author: "Md Monowar Hossain"
+date: "2025-08-30"
 ---
-
 
 # About Stata software
 
@@ -84,4 +75,5 @@ type: help regression
 \begin{center}
 \Huge \textbf{THANK YOU}
 \end{center}
+
 
