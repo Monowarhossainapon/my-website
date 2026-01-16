@@ -11,5 +11,5 @@ This course introduces SPSS for statistical computing. Students learn data entry
 
 ## Lecture Materials
 
-* [Lecture 1: Introduction to SPSS](lecture-01.qmd)
+* [Lecture 1: Introduction to SPSS](Lecture_01.qmd)
 * [Lecture 2: Descriptive Statistics](lecture-02.qmd)
