@@ -1,0 +1,15 @@
+---
+title: "Basic Data Analysis with SPSS"
+subtitle: "Course materials for BDRS Training Program"
+author: "Md Monowar Hossain"
+affiliation: "University of Dhaka"
+---
+
+## Introduction
+
+This course introduces SPSS for statistical computing. Students learn data entry, manipulation, and basic visualization.
+
+## Lecture Materials
+
+* [Lecture 1: Introduction to SPSS](lecture-01.qmd)
+* [Lecture 2: Descriptive Statistics](lecture-02.qmd)
