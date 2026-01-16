@@ -7,4 +7,4 @@ website:
         - section: "Course Materials"
           contents:
             - courses/spss-foundation/lecture1.qmd
-            - courses/spss-foundation/lecture-02.qmd
+            - courses/spss-foundation/lecture2.qmd
