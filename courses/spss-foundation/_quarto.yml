@@ -6,5 +6,7 @@ website:
         - courses/spss-foundation/index.qmd
         - section: "Course Materials"
           contents:
-            - courses/spss-foundation/lecture1.qmd
-            - courses/spss-foundation/lecture2.qmd
+            - href: courses/spss-foundation/lecture1.qmd
+              text: "Lecture 1: Intro to Stata"
+            - href: courses/spss-foundation/lecture2.qmd
+              text: "Lecture 2: Stata"
