@@ -12,7 +12,7 @@ website:
       - href: posts.qmd
         text: Posts
       - href: teaching.qmd
-        text: Teaching
+        text: Teaching & Training
       - href: projects.qmd
         text: Research & Projects
       - href: about.qmd
