@@ -31,6 +31,7 @@ I have developed curriculum and led sessions for the following software-specific
 
 | Year | Program Topic | Software | Participants | Materials |
 |:--- |:---|:---:|:---:|:---:|
-| **2025** | Advanced Statistical Tools for Research | SPSS, R, STATA | 200+ | |
-| **2025** | Basic Data Analysis Foundation | SPSS | 200+ |[**View Course Materials**](courses/spss-basic/index.qmd) |
+| **2026** | Basic Data Analysis Course on R-PROGRAMMING|100+ | [**View Course Materials**](courses/r-course-2025/index.qmd)|
+| **2025** | Advanced Statistical Tools for Research | SPSS, R, STATA | 200+ |[**View Course Materials**](courses/spss-stata-r-course--2025/index.qmd) |
+| **2025** | Basic DataAnalysiss Foundation | SPSS | 200+ |[**View Course Materials**](courses/spss-basic/index.qmd) |
 | **2024** | Data Management & Manipulation | STATA | 380+ | [**View Course Materials**](courses/stata-basic-2024/index.qmd) |
