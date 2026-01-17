@@ -1,0 +1,12 @@
+website:
+  sidebar:
+    - id: spss-course
+      title: "SPSS Foundation"
+      contents:
+        - courses/spss-basic/index.qmd
+        - section: "Course Materials"
+          contents:
+            - href: courses/spss-foundation/lecture1.qmd
+              text: "Lecture 1: Intro to Stata"
+            - href: courses/spss-foundation/lecture2.qmd
+              text: "Lecture 2: Stata"
