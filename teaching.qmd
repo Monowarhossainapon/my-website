@@ -2,26 +2,63 @@
 title: "Teaching & Training"
 ---
 
-I am dedicated to empowering students and researchers by bridging the gap between statistical theory and practical data analysis. As an **Online Student Trainer** for the **Bangladesh Research Society (BDRS)**, I have trained nearly 800 students and professionals.
+I am dedicated to empowering students and researchers by bridging the gap between statistical theory and practical data analysis. As an **Online Student Trainer** for the **Bangladesh Research Society (BDRS)**, I have trained nearly 900 students and professionals.
 
 ## Training Experience
 
-### Statistical Tools for Research
+### R for Data Science
+*Online Trainer | BDRS | Dec 2025 – Feb 2026*
+
+::: {layout="[15, 85]"}
+![](images/r-logo.jpg)
+
+
+
+This course provides a comprehensive introduction to the R programming language, focusing on the Tidyverse ecosystem for statistical computing and research. Students master data wrangling with dplyr, professional visualization with ggplot2, and advanced analytical techniques including regression, time series, and unsupervised learning.<br>
+- Session 2025–26 – Scheduled to begin on December 20, 2025 <br>
+- [Session 2025–26](courses/r-course-2025/index.qmd) – Conducted from December 2025 to february  2026
+
+:::
+
+---
+
+
+### Training on Statistical Tools for Research (SPSS, R, and STATA) 
 *Online Trainer | BDRS | July 2025 – Dec 2025*
 
-* **Tools:** SPSS, R, and STATA.
-* **Focus:** Conducted advanced training sessions focused on designing course materials and providing live demonstrations tailored for real-world research applications.
+::: {layout="[15, 85]"}
+![](images/Statistical.jpg)
+
+This intensive 3-month advanced training program is designed to build proficiency across three primary statistical platforms: SPSS, R-Programming, and STATA. The curriculum guides students through the complete research lifecycle, including complex data management, multivariate analysis (Factor Analysis and Reliability), logistic regression, and time series analysis. A strong emphasis is placed on reproducible research through the use of R scripts, Stata do-files, and SPSS syntax, culminating in a final capstone project using real-world research datasets.<br>
+- [Session 2025–26](courses/spss-stata-r-course-2025/index.qmd)  – Conducted from July 2025 to December 2025
+
+:::
+
+---
 
 ### Basic Data Analysis with SPSS
-*Online Trainer | BDRS | Mar 2025 – Apr 2025*
+*Online Trainer | BDRS | Mar 2025 – May 2025*
 
-* **Focus:** Delivered foundational courses for beginners.
-* **Topics:** Data entry, descriptive statistics, and visualization techniques essential for academic research.
+::: {layout="[15, 85]"}
+![](images/spss.jpg)
 
-### Data Management with STATA
+This foundational course introduces SPSS for data management and academic research. The curriculum covers the entire research workflow, from data importing and cleaning to advanced statistical modeling, including ANOVA, regression analysis, and hypothesis testing.<br>
+- [Session 2024–25](courses/spss-basic-2025/index.qmd) – Conducted from March 2025 to May 2025
+
+:::
+
+---
+
+### Basic Data Analysis with STATA
 *Online Trainer | BDRS | Dec 2024 – Jan 2025*
 
-* **Focus:** Led hands-on training programs focused on data management and basic statistical analysis.
+::: {layout="[15, 85]"}
+![](images/stata.jpg)
+
+This course provides a foundational yet comprehensive introduction to STATA for academic and business research. Students learn to navigate the STATA interface, perform data visualization, and execute essential statistical procedures, including hypothesis testing, regression analysis, time series modeling, and techniques for handling missing data.<br>
+- [Session 2024–25](courses/stata-basic-2024/index.qmd) – Conducted from December 2024 to January 2025
+
+:::
 
 ---
 
@@ -31,7 +68,7 @@ I have developed curriculum and led sessions for the following software-specific
 
 | Year | Program Topic | Software | Participants | Materials |
 |:--- |:---|:---:|:---:|:---:|
-| **2026** | Basic Data Analysis Course on R-PROGRAMMING|100+ | [**View Course Materials**](courses/r-course-2025/index.qmd)|
-| **2025** | Advanced Statistical Tools for Research | SPSS, R, STATA | 200+ |[**View Course Materials**](courses/spss-stata-r-course--2025/index.qmd) |
-| **2025** | Basic DataAnalysiss Foundation | SPSS | 200+ |[**View Course Materials**](courses/spss-basic/index.qmd) |
-| **2024** | Data Management & Manipulation | STATA | 380+ | [**View Course Materials**](courses/stata-basic-2024/index.qmd) |
+| **2026** | Basic Data Analysis Course on R-PROGRAMMING | R |100+ | [View Course Materials](courses/r-course-2025/index.qmd)|
+| **2025** | Training on Statistical Tools for Research (SPSS, R, and STATA) | SPSS, R, STATA | 200+ |[View Course Materials](courses/spss-stata-r-course-2025/index.qmd) |
+| **2025** | Basic Data Analysis with SPSS | SPSS | 200+ |[View Course Materials](courses/spss-basic-2025/index.qmd) |
+| **2024** | Basic Data Analysis with STATA | STATA | 380+ | [View Course Materials](courses/stata-basic-2024/index.qmd) |

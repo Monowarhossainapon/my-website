@@ -20,6 +20,6 @@ If you are interested in discussing research collaborations regarding **Public H
 **Location:** Institute of Statistical Research and Training (ISRT), University of Dhaka\
 **Office Hours:** By appointment (Online or on-campus)
 
-------------------------------------------------------------------------
 
-[Email Me]({mailto:mmhossain1@isrt.ac.bd}){.btn .btn-outline-primary .btn-sm} [Download CV](/Md_Monowar_Hossain_CV.pdf){.btn .btn-outline-secondary .btn-sm}
+
+[Email Me](mailto:mmhossain1@isrt.ac.bd){.btn .btn-outline-primary .btn-sm} [Download CV](/images/Md_Monowar_Hossain_CV.pdf){.btn .btn-outline-secondary .btn-sm}

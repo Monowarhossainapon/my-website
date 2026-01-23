@@ -17,8 +17,25 @@ website:
         text: Research & Projects
       - href: about.qmd
         text: About
-
+  page-footer:
+    background: dark        # Makes the footer bar blue/dark like your image
+    left:
+      - icon: code-slash
+        href: https://rpubs.com/md_monowar_hossain
+    center: "© 2022 - 2026 Md. Monowar Hossain"
+    right: 
+      - icon: github
+        href: https://github.com/Monowarhossainapon
+      - icon: linkedin
+        href: https://www.linkedin.com/in/md-monowar-hossain-apon/
+        
 format:
   html:
-    theme: cosmo
-    toc: true
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    fontsize: 1.1em
+    code-copy: true
+
+  

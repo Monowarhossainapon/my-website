@@ -5,32 +5,40 @@ toc: true
 
 ## Research Projects
 
- *Geospatial and Sociodemographic Inequities in Non-Communicable Diseases*<br>
-**B.S. Project | 2025**
-  **Topic:** Insights from the BDHS 2021-22 regarding health inequities among ever-married women in Bangladesh.
-  **Supervised by:** Mr. Priom Saha (ISRT, University of Dhaka).
-  **Tools:** R (Tidyverse, sf), Geospatial Mapping, Statistical Modeling.
+**Geospatial and Sociodemographic Inequities in Non-Communicable Diseases**<br>
+*B.S. Project | 2025*<br>
+**Topic:** Insights from the BDHS 2021-22 regarding health inequities among ever-married women in Bangladesh.<br>
+*Supervised by:* Mr. Priom Saha (ISRT, University of Dhaka).<br>
+*Tools:* R (Tidyverse, sf), Geospatial Mapping, Statistical Modeling.
 
-*Students' Opinion on Party-based Student Politics*<br>
-**Survey Project (DURS) | 2024**
-  **Scope:** Analyzed student perspectives on political activities at the University of Dhaka.
-  **Status:** Published on the Dhaka University Website.
-  **Role:** Lead Researcher for survey design and data analysis.
+**Students' Opinion on Party-based Student Politics**<br>
+*Survey Project (DURS) | 2024*<br>
+**Scope:** Analyzed student perspectives on political activities at the University of Dhaka.<br>
+*Status:* [Published on the Dhaka University Website](https://du.ac.bd/du_post_details/news/21754).<br>
+*Role:* Lead Researcher for survey design and data analysis.
 
----
 
 ## Working Papers
 
- *Transformation of Coastal Livelihood*<br>
-  An investigation into the shifting economic and environmental landscape of coastal regions in Bangladesh.
-  **Focus:** Sustainability and adaptive strategies in the face of climate change.
+*Transformation of Coastal Livelihood*<br>
+An investigation into the shifting economic and environmental landscape of coastal regions in Bangladesh.<br>
+**Focus:** Sustainability and adaptive strategies in the face of climate change.
 
----
 
-## Technical Skills in Practice
 
-On these projects, I frequently utilize:
+## Research Interests
 
-  **Data Visualization:** Custom ggplot2 themes for academic posters.
-  **Reporting:** Reproducible manuscripts using **Quarto** and **LaTeX**.
-  **Geospatial Analysis:** Mapping regional disparities in health and social metrics.
+* Public Health Analytics: Investigating non-communicable diseases and health inequities using large-scale survey data (e.g., BDHS).
+* Spatial Statistics: Applying geospatial modeling and machine learning to understand environmental and regional disparities.
+* Modern Modeling: Exploring Bayesian inference, causal inference, and big data analytics.
+
+## Leadership & Community
+
+Joint Secretary: Dhaka University Research Society (DURS).
+
+Data Specialist: Dhaka University Runners Community (DURC).
+
+Technical Training: Facilitating workshops in R, STATA, and SPSS for students and professionals.
+
+
+

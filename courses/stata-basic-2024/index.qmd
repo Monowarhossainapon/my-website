@@ -23,3 +23,14 @@ This course introduces STATA for statistical computing. Students learn data entr
 * Lecture 10: Statistical tests
 * Lecture 11: Statistical modeling
 * Lecture 12: Project and Research Paper Analysis
+
+
+## Course Contents:
+* Introduction to STATA
+* Data Visualization Techniques
+* Hypothesis Testing
+* Regression Analysis
+* Time Series Analysis
+* Business Data Analysis
+* Handling Missing Data
+* Statistical Modeling

@@ -2,7 +2,13 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/icasds-2025/index.html"
+      "/posts/icasds-2025/index.html",
+      "/posts/bs-project/index.html",
+      "/posts/icddr,b_2025/index.html",
+      "/posts/pess_2024/index.html",
+      "/posts/DURS_com_VC_meeting_2024/index.html",
+      "/posts/DURS_com_2024/index.html",
+      "/posts/BARI_BRRI_2023/index.html"
     ]
   }
 ]

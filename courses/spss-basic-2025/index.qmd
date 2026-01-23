@@ -1,0 +1,39 @@
+---
+title: "Basic Data Analysis with SPSS"
+subtitle: "Course materials for BDRS Training Program"
+author: "Md Monowar Hossain"
+affiliation: "University of Dhaka"
+---
+
+## Introduction
+
+This course introduces SPSS (Statistical Package for the Social Sciences) for data management and academic research. Students will learn the entire research workflow, from initial data entry and cleaning to advanced statistical modeling and project reporting.
+
+## Lecture Materials
+* Course Overview & Installation
+* Lecture 1: Introduction to SPSS Interface
+* Lecture 2: Data Entry & Importing (Excel, CSV, Text)
+* Lecture 3: Data Management 1 (Labeling & Coding)
+* Lecture 4: Data Management 2 (Recoding & Computing Variables)
+* Lecture 5: Data Cleaning & Handling Missing Values
+* Lecture 6: Graphical Presentation 1 (Bar, Pie, & Histograms)
+* Lecture 7: Graphical Presentation 2 (Boxplots & Scatterplots)
+* Lecture 8: Summarization of Data 1 (Frequencies & Descriptives)
+* Lecture 9: Summarization of Data 2 (Crosstabs & Custom Tables)
+* Lecture 10: Statistical Tests (t-tests, ANOVA, Chi-Square)
+* Lecture 11: Statistical Modeling (Correlation & Regression)
+* Lecture 12: Full Research Project & Paper Analysis
+
+
+
+## Course Contents:
+* **Introduction to SPSS:** Navigating Data View vs. Variable View.
+* **Data Management:** Merging, splitting, and transforming datasets.
+* **Data Visualization:** Creating publication-quality charts and graphs.
+* **Hypothesis Testing:** Mastering parametric and non-parametric tests.
+* **Regression Analysis:** Building and interpreting linear and logistic models.
+* **ANOVA:** Comparing means across multiple groups.
+* **Missing Data:** Identification and imputation techniques.
+* **Full Research Workflow:** From raw data to final analysis report.
+
+---

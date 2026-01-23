@@ -1,0 +1,38 @@
+---
+title: "Press Conference: Student Politics Survey Report Publication"
+date: "2024-11-20"
+author: "Md Monowar Hossain"
+location: "Teacher-Student Centre (TSC), University of Dhaka"
+categories: [Research, Press, DURS]
+image: "press_meeting.jpg"
+description: "Publishing the findings of the DURS survey on student politics at the University of Dhaka."
+---
+
+On November 17, 2024, the **Dhaka University Research Society (DURS)** organized a "Meet the Press" event to officially publish our survey report regarding student politics. This report was based on data collected from the student body to understand their perspectives and expectations regarding the political environment on campus.
+
+::: {layout="[45, 55]"}
+![](press_meeting.jpg)
+
+During the meeting, we presented the key findings and statistical insights from the survey to various national media outlets. This initiative was part of our ongoing effort to use data-driven research to reflect the actual sentiments of the university community.
+:::
+
+
+
+### Media Coverage
+
+Our report was featured in several leading national newspapers. You can read the full coverage through the links below:
+
+| Newspaper | Link to Report |
+|-----------|----------------|
+| **Prothom Alo** | [Read Article](https://www.prothomalo.com/politics/62c005v5hs) |
+| **kalerkantho** | [Read Article](https://www.kalerkantho.com/print-edition/news/2024/09/18/1426485) |
+| **Kalbela** | [Read Article](https://www.kalbela.com/dainikshiksha/campus/121934) |
+| **Samakal** | [Read Article](https://samakal.com/education/article/256332/) |
+| **Dhaka University website** | [Read Article](https://du.ac.bd/du_post_details/news/21754) |
+| **The Daily Campus** | [Read Article](https://thedailycampus.com/interview/153687) |
+| **Desh Rupantor** | [Read Article](https://www.deshrupantor.com/537297) |
+| **Bangla News 24** | [Read Article](https://www.banglanews24.com/education/news/bd/1393282.details) |
+| **Bangla Tribune** | [Read Article](https://www.banglatribune.com/amp/my-campus/863596/) |
+| **Dhaka Post** | [Read Article](https://www.dhakapost.com/campus/307785) |
+| **Shomoyer alo** | [Read Article](https://www.shomoyeralo.com/news/285104) |
+| **channel i online** | [Read Article](https://www.channelionline.com/84-percent-students-want-to-ban-student-politics/) |

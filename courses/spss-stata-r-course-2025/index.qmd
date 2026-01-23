@@ -1,0 +1,47 @@
+---
+title: "Training on Statistical Tools for Research"
+subtitle: "Comprehensive Mastery of SPSS, STATA, and R-Programming"
+author: "Md Monowar Hossain"
+affiliation: "University of Dhaka"
+---
+
+## Introduction
+
+This 3-month intensive program is designed to transform students into versatile data analysts by mastering the "Big Three" of statistical software. By learning SPSS, STATA, and R simultaneously, students understand which tool is best for specific research tasks and how to maintain reproducibility across platforms.
+
+## Lecture Materials
+
+### Phase 1: Foundations & Software Mechanics
+* **Lecture 1:** Software Comparison: Choosing between SPSS, STATA, and R
+* **Lecture 2:** Interface Mastery: Data View, Do-files, and R-Scripts
+* **Lecture 3:** Data Entry, Importing, and Exporting across formats
+
+### Phase 2: Data Engineering & Cleaning
+* **Lecture 4:** Data Management in SPSS (Syntax) and STATA (Commands)
+* **Lecture 5:** Tidy Data principles in R using `tidyverse`
+* **Lecture 6:** Advanced Data Transformation and Handling Missing Values
+
+### Phase 3: Visualization & Descriptive Analysis
+* **Lecture 7:** Publication-quality Graphics in STATA
+* **Lecture 8:** The Grammar of Graphics: `ggplot2` in R
+* **Lecture 9:** Advanced Reporting and Descriptive Summaries
+
+### Phase 4: Inferential Statistics & Modeling
+* **Lecture 10:** Parametric and Non-parametric Hypothesis Testing
+* **Lecture 11:** Linear and Logistic Regression Analysis
+* **Lecture 12:** Multivariate Analysis: Factor Analysis & Reliability
+* **Lecture 13:** Time Series and Panel Data Analysis
+* **Lecture 14:** Reproducible Research: Automation and Reporting
+* **Lecture 15:** Capstone Project: End-to-End Research Analysis
+
+
+
+## Course Contents:
+* **Multi-Software Proficiency:** Advanced training in SPSS, R, and STATA from basic to expert levels.
+* **Data Lifecycle:** Mastering the flow from Data Entry and Cleaning to Transformation.
+* **Advanced Analytics:** In-depth coverage of ANOVA, Regression, and Logistic Modeling.
+* **Specialized Topics:** Multivariate Analysis, Factor Analysis, and Time Series.
+* **Reproducibility:** Learning to write professional Scripts, Do-files, and Syntax.
+* **Capstone Project:** A final real-world research project integrating all three tools.
+
+---

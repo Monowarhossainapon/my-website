@@ -1,0 +1,104 @@
+---
+title: "Statistics in the Wild: Exploring Experimental Designs at BARI and BRRI"
+date: "2023-11-08"
+author: "Md Monowar Hossain"
+location: "Gazipur: BARI and BRRI"
+categories: [Field Trip, Research, Experimental Design, EVENT]
+image: BRRI1.jpeg
+description: "A reflective look at the 2023 field trip to BARI and BRRI, bridging the gap between classroom theory and real-world agricultural research."
+---
+
+On November 7, 2023, as a third-year Applied Statistics student at ISRT, I joined my classmates and faculty members on an educational journey to the heart of agricultural research in Gazipur: **BARI** and **BRRI**.
+
+## The Journey to BARI
+
+![Starting point: Science Library, University of Dhaka.](start_BARI_BRRI.jpeg)
+
+Our day began early at the University of Dhaka. Traveling to the Bangladesh Agricultural Research Institute (BARI), we were eager to see how the "perfect" designs from our textbooks are implemented in the challenging environment of open-field research.
+
+
+
+::: {layout="[40, 60]"}
+![Arrived at ASIRT, BARI.](BARI1.jpeg)
+
+**The Foundation of Research**
+Our first stop was the ASICT building. During a detailed seminar, we learned about the 622 crop varieties developed by BARI. It was fascinating to hear about the "BARI Mango-4" and the "Anthocyanin Potato," realizing that statistics is the backbone of these innovations.
+:::
+
+
+
+## Seeing RCBD in Practice
+
+One of the most impactful moments was walking through the brinjal fields (BARI-begun 8). We observed a **Randomized Complete Block Design (RCBD)** being used to test pest management strategies.
+
+
+::: {layout="[60, 40]"}
+**Statistical Rigor in the Field**
+We observed how researchers blocked the area based on soil fertility and sunlight. A key takeaway was learning why predatory mites are ideal for these experiments; since they cannot fly, they remain within their assigned treatment plots, ensuring no "leakage" across the experimental units. This physical constraint validates the independence required for a robust ANOVA.
+
+![Visiting the BARI Begun-8 research fields.](BARI2.jpeg)
+:::
+
+
+::: {layout-ncol=2}
+
+![BARI Begun-8](BARI2_2.jpeg)
+
+![Nutrient management of turmeric varieties ](BARI3.jpeg)
+
+
+![BARI Begun-8](BARI8.jpeg)
+
+
+
+
+![Field discussion](BARI6.jpeg)
+
+
+![Rice variety trials](BARI4.jpeg)
+
+
+![Field discussion](BARI7.jpeg)
+:::
+
+
+
+## Transitioning to BRRI: The Science of Rice
+
+After a productive morning at BARI and a quick lunch, we transitioned to the **Bangladesh Rice Research Institute (BRRI)**. As the primary center for rice research in the country, BRRI provided a different perspective on how statistical stability is measured across seasons.
+
+
+![Bangladesh Rice Research Institute (BRRI)](BRRI1.jpeg)
+
+::: {layout="[100]"}
+**Stability and Adaptability Analysis**
+At BRRI, we focused on the **Stability Analysis** of Aman rice varieties. The researchers explained that it is not enough for a variety to perform well once; it must show consistent yield across different environments and years. We discussed how they use multi-environment trials (MET) to identify varieties with high adaptability for farmers across Bangladesh.
+:::
+
+---
+
+## Sampling Techniques in the Field
+
+One of the most technical discussions occurred while standing among the vast rice plots regarding how data is actually collected from the thousands of plants available.
+
+::: {layout="[60, 40]"}
+**Systematic Sampling vs. SRS**
+The scientific officers shared a practical secret of field research: they often prefer **Systematic Sampling** over Simple Random Sampling (SRS) when measuring plant height or panicle length. They explained that in large fields, SRS can inadvertently lead to "clustering" in specific patches that might be unusually healthy or diseased. Systematic sampling ensures an even spread across the entire plot, providing a more reliable estimate of the variety’s true characteristics.
+
+![Field discussion](BRRI2.jpeg)
+:::
+
+---
+
+## Closing Thoughts: Beyond the Textbook
+
+**A Statistician's Adaptation**
+
+
+By the time we boarded the bus at 5:30 PM, my perspective had shifted. I realized that while our textbooks provide the rigid templates (like the RCBD or Factorial designs), the real skill of an ISRTian lies in **adaptation**. Whether it is dealing with limited space, soil fertility gradients, or budget constraints, statistics is the tool that allows researchers to find truth amidst real-world chaos.
+
+![](BRRI1_2.jpeg)
+
+## Acknowledgements
+
+I would like to express my deepest gratitude to our faculty members, **Prof. Dr. Mahbub Latif, Prof. Dr. M. Shafiqur Rahman, Asst. Prof. Md. Mynul Islam**, and **Lecturer Md. Rasel Biswas**, for their guidance. Special thanks to the scientists at BARI and BRRI for opening their fields to the next generation of statisticians.

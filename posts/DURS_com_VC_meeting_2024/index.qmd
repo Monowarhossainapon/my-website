@@ -1,0 +1,35 @@
+---
+title: "DURS Executive Committee Meets with Honorable Vice Chancellor"
+date: "2024-10-15"
+author: "Md Monowar Hossain"
+location: "The Office of the Vice-Chancellor (OVC) at the University of Dhaka"
+categories: [EVENT, Leadership, DURS]
+image: "images/IMG_1956.jpg"
+description: "The Executive Committee of DURS 2024-25 in an introductory meeting with the Vice Chancellor of the University of Dhaka."
+---
+
+It was a significant honor for the newly formed Executive Committee of the **Dhaka University Research Society (DURS)** for the 2024-25 session to meet with our honorable **Vice Chancellor, Professor Niaz Ahmed Khan, PhD**. As the Joint Secretary, I felt privileged to be part of this dialogue where we shared our vision for the upcoming tenure.
+
+
+![](images/IMG_1935.jpg)
+
+**Empowering Research Culture**
+During the meeting, the Vice Chancellor expressed his keen interest in the society's activities and emphasized the importance of fostering a robust research environment within the university. He encouraged us to continue our efforts in bridging the gap between student researchers and global academic standards. 
+
+
+The session concluded with an exchange of ideas on how DURS can better serve the university’s research community. This meeting has provided our team with immense motivation to implement our plans for the 2024-25 session under the guidance and support of the university administration. We are committed to making this year a landmark period for innovation and academic growth at the University of Dhaka.
+
+### Event Gallery
+
+::: {#fig-vc-meeting layout-ncol=2}
+
+![](images/IMG_1939.jpg)
+
+![](images/IMG_1919.jpg)
+
+![Presenting the DURS Vision Statement](images/IMG_1922.jpg)
+
+![The Executive Committee of DURS 2024-2](images/Ex_Durs.jpg)
+
+Moments from the meeting at the Vice Chancellor's Office
+:::

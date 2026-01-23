@@ -13,5 +13,41 @@
   },
   "posts/icasds-2025/index.qmd": {
     "index.html": "2cef49cf"
+  },
+  "courses/r-course-2025/index.qmd": {
+    "index.html": "8e2bfc94"
+  },
+  "courses/spss-basic/index.qmd": {
+    "index.html": "38613940"
+  },
+  "courses/stata-basic-2024/index.qmd": {
+    "index.html": "3d5f9c63"
+  },
+  "posts/bs-project/index.qmd": {
+    "index.html": "a8521597"
+  },
+  "teaching.qmd": {
+    "teaching.html": "2ba015c4"
+  },
+  "courses/spss-basic-2025/index.qmd": {
+    "index.html": "ede3c220"
+  },
+  "courses/spss-stata-r-course-2025/index.qmd": {
+    "index.html": "b3a3c3d2"
+  },
+  "posts/BARI_BRRI_2023/index.qmd": {
+    "index.html": "835a48ac"
+  },
+  "posts/icddr,b_2025/index.qmd": {
+    "index.html": "1983e30b"
+  },
+  "posts/DURS_com_2024/index.qmd": {
+    "index.html": "33ed147d"
+  },
+  "posts/DURS_com_VC_meeting_2024/index.qmd": {
+    "index.html": "4f9eb45e"
+  },
+  "posts/pess_2024/index.qmd": {
+    "index.html": "7167e543"
   }
 }

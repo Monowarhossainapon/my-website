@@ -2,11 +2,11 @@
 title: "MD. Monowar Hossain"
 about:
   template: solana  # Options: jolla, trestles, solana, marquee, broadside
-  image: DSC_3674.jpg
+  image: images/DSC_3674.jpg
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: code-slash # This represents RPubs/R projects
+      text: RPubs
+      href: https://rpubs.com/md_monowar_hossain
     - icon: github
       text: Github
       href: https://github.com/Monowarhossainapon
@@ -17,22 +17,9 @@ about:
 
 ## About Me
 
-I am a graduate student at the **University of Dhaka**, pursuing an **M.S. in Applied Statistics & Data Science**. My academic work is driven by a focus on using advanced statistical methodologies to solve real-world problems, particularly within the realms of public health and sociodemographic analysis.
+I am a graduate student at the **Institute of Statistical Research and Training (ISRT)**, University of Dhaka, pursuing an **M.S. in Applied Statistics & Data Science**. My academic work is driven by a focus on using advanced statistical methodologies to solve real-world problems, particularly within the realms of public health and sociodemographic analysis.
 
-Currently, I serve as the **Joint Secretary** of the **Dhaka University Research Society (DURS)**. In this role, I enjoy mentoring others in statistical software and coordinating initiatives that promote data-driven inquiry across campus.
 
-### Research Interests
 
--   **Public Health Analytics:** Investigating non-communicable diseases and health inequities using large-scale survey data (e.g., BDHS).
+My research interests lie at the intersection of **biostatistics** and **computational data science**. I am dedicated to exploring how rigorous inferential models and machine learning techniques can be applied to large-scale datasets to uncover meaningful patterns. At ISRT, I have developed a strong foundation in experimental design, survey sampling, and multivariate analysis, which I aim to apply toward high-impact research in the scientific community.
 
--   **Spatial Statistics:** Applying geospatial modeling and machine learning to understand environmental and regional disparities.
-
--   **Modern Modeling:** Exploring Bayesian inference, causal inference, and big data analytics.
-
-### Leadership & Community
-
--   **Joint Secretary:** Dhaka University Research Society (DURS).
-
--   **Data Specialist:** Dhaka University Runners Community (DURC).
-
--   **Technical Training:** Facilitating workshops in R, STATA, and SPSS for students and professionals.
